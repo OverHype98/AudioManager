@@ -1,0 +1,39 @@
+<?xml version = "1.0"?>
+<cantec>
+   <cantec id = "1">
+      	<name>Killshot</name>
+	<genre>Rap</genre>
+	<description>Rap is a music genre developed in the United States by inner-city African Americans</description>
+	<rating>10</rating>
+	<artist>Eminem</artist>
+	<date>2018</date>
+   </cantec>
+   
+    <cantec id = "2">
+      	<name>DNA</name>
+	<genre>Rap</genre>
+	<description>Rap is a music genre developed in the United States by inner-city African Americans</description>
+	<rating>8</rating>
+	<artist>Kendrick Lamar</artist>
+	<date>2017</date>
+   </cantec>
+   
+
+   
+    <cantec id = "3">
+      	<name>Suicidal thoughts</name>
+	<genre>Rap</genre>
+	<description>Rap is a music genre developed in the United States by inner-city African Americans</description>
+	<rating>10</rating>
+	<artist>Notorious BIG</artist>
+	<date>1998</date>
+   </cantec>
+ <cantec id = "4">
+      	<name>Believer</name>
+	<genre>Pop</genre>
+	<description>Pop music is a genre of popular music that originated in its modern form in US</description>
+	<rating>7</rating>
+	<artist>Imagine Dragons</artist>
+	<date>2016</date>
+   </cantec>
+</cantec>
